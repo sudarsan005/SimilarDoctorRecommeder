@@ -1,5 +1,5 @@
 # SimilarDoctorRecommeder
-Code returns list of similar doctors for a given doctor attributes.
+Code returns list of similar doctors for a given doctor.
 
 Assumptions:
 This code is written based on the following assumptions
